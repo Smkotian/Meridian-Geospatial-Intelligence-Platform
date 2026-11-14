@@ -5,7 +5,6 @@ A full-stack geospatial application combining **GPS movement analytics** with **
 > **Project type:** DBMS Level 3 Mini-Project  
 > **Application:** Next.js web application  
 > **Databases:** PostgreSQL + PostGIS and MongoDB  
-> **Repository:** https://github.com/siasimran-magic/Meridian-Geospatial-Intelligence-Platform
 
 ---
 
